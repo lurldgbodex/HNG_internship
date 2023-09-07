@@ -9,7 +9,7 @@ app.get("/api", (req, res) => {
   const currentDay = DateTime.now().toLocaleString({ weekday: "long" });
   const utcTime = DateTime.utc().toISO({ suppressMilliseconds: true });
   const githubFileUrl =
-    "https://github.com/lurldgbodex/HNG_internship/blob/main/backend_track/stage_one/stage-one_flask";
+    "https://github.com/lurldgbodex/HNG_internship/blob/main/backend_track/stage_one/stage-one_flask.py";
   const githubSourceUrl = "https://github.com/lurldgbodex/HNG_internship";
   const statusCode = 200;
 

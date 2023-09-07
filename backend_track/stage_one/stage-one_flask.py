@@ -14,7 +14,7 @@ def index():
         'current_day': datetime.now().strftime('%A'),
         'utc_time': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
         'track': track,
-        'github_file_url': 'https://github.com/lurldgbodex/HNG_internship/blob/main/backend_track/stage_one/stage-one_flask',
+        'github_file_url': 'https://github.com/lurldgbodex/HNG_internship/blob/main/backend_track/stage_one/stage-one_flask.py',
         'github_repo_url': 'https://github.com/lurldgbodex/HNG_internship',
         'status_code': 200
     }
