@@ -39,7 +39,7 @@ Follow these steps to set up, run, and use the Person API:
 Clone the API repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/person-api.git
+git clone https://github.com/lurldgbodex/HNG_internship.git
 ```
 
 ### Install Dependencies <a name="install-dependencies"></a>
@@ -47,7 +47,7 @@ git clone https://github.com/your-username/person-api.git
 Navigate to the project directory and install the required Node.js dependencies:
 
 ```bash
-cd person-api
+cd backend_track/stage_two/expressjs
 npm install
 ```
 
