@@ -114,7 +114,7 @@ The Person API provides the following endpoints for managing person records:
 
 ## 4. UML diagram link <a name="uml-diagram-link"></a>
 
-[uml-link](`https://drive.google.com/file/d/1VoOthXTZNaYbM-f3uMzWX2O4efCgvqYv/view?usp=sharing`)
+[uml link that shows relationship between models and API classes](https://drive.google.com/file/d/1VoOthXTZNaYbM-f3uMzWX2O4efCgvqYv/view?usp=sharing)
 
 ## 5. Testing <a name="testing"></a>
 
